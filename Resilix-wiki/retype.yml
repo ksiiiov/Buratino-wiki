@@ -1,0 +1,17 @@
+input: .
+output: .retype
+
+url: ksiiiov.github.io/Resilix-wiki/
+
+branding:
+  title: Resilix
+  label: wiki
+
+links:
+  - text: На главную
+    link: /
+  - text: Помощь
+    link: help/
+
+footer:
+  copyright: "© {{ year }} Resilix. All rights reserved."
