@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://buratino.wiki/sitemap.xml.gz
