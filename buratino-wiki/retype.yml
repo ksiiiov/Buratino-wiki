@@ -1,0 +1,24 @@
+input: .
+output: .retype
+
+# сюда потом подставишь свой домен
+url: buratino.wiki
+
+branding:
+  title: Wiki
+  label: Buratino
+  # сюда можно повесить логотип, если нужен
+  # logo: static/logo.png
+
+# Верхнее меню: "На главную" и "Помощь"
+# (на самом деле Retype и так покажет страницы,
+# но так надёжнее и предсказуемее)
+links:
+  - text: На главную
+    link: /
+  - text: Помощь
+    link: help.md
+
+footer:
+  # шаблон «© 2025 …»
+  copyright: "© {{ year }} Buratino. All rights reserved."
